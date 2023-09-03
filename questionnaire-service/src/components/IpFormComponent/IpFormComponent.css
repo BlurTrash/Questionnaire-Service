@@ -1,0 +1,44 @@
+.font-26 {
+  font-size: 30px;
+}
+
+.row {
+  padding-bottom: 24px;
+}
+
+.row > * {
+  padding: 0px;
+  padding-right: 16px;
+}
+
+.row > :last-child {
+  padding-right: 0px;
+}
+
+.row:last-child {
+  padding-bottom: 0px;
+  padding-top: 50px;
+}
+
+.row:last-child > :last-child {
+  padding-left: 0px;
+}
+
+.padding-left-16 {
+  margin-left: 5px;
+}
+
+.check-contract {
+  display: flex;
+  /* align-items: end; */
+  padding-bottom: 15px;
+}
+
+.check-contract-inner {
+  display: inline-block;
+  margin-top: 44px;
+}
+
+.margin-left-5 {
+  margin-left: 5px;
+}

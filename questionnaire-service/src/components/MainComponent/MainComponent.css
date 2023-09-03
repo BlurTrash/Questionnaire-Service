@@ -1,0 +1,36 @@
+/* .App-body {
+    width: 1040px;
+    height: 620px;
+    margin: 80px auto;
+  }
+  
+  .App-body::after, .App-body::before, .header-content::after, .header-content::before{
+    content: "";
+    display: block;
+  }
+  
+  .header-content {
+    margin-bottom: 128px;
+  }
+  
+  .medium-header-p {
+    color: #222;
+    font-size: 18px;
+  }
+  
+  .margin-top-32 {
+    margin-top: 32px;
+  }
+  
+  .margin-top-12 {
+    margin-top: 12px;
+  }
+  
+  .title-header {
+    font-size: 14px;
+    opacity: 0.6;
+  }
+  
+  .width-512 {
+    width: 512px;
+  } */

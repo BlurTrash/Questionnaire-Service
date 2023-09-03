@@ -1,0 +1,21 @@
+.container {
+    max-width: 1200px;
+    margin: 0px, auto;
+    font-size: 12px;
+}
+
+.img__thumbnail {
+    display: inline-block;
+    width: 48px;
+    height: auto;
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    transition: all .2s ease-in-out;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}

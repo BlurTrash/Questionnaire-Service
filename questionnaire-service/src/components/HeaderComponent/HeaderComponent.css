@@ -1,0 +1,23 @@
+.App-header {
+    background: #222;
+    padding: 15px 30px;
+}
+  
+.App-header a {
+    text-decoration: none;
+    color: snow;
+}
+
+.App-header a:hover {
+    color: burlywood;
+}
+
+.horizontal_list {
+ margin-bottom: 0px;
+}
+
+.horizontal_list li {
+    display: inline;
+    margin-right: 30px;
+}
+
